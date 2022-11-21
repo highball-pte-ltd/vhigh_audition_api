@@ -1,0 +1,71 @@
+{
+    "total_votes": 1035,
+    "ranking": [
+        {
+            "rank": 1,
+            "image": "https://highball-pte-ltd.github.io/vhigh_audition_api/assets/img/14.png",
+            "entry_no": 14,
+            "votes": 100
+        },
+        {
+            "rank": 2,
+            "image": "https://highball-pte-ltd.github.io/vhigh_audition_api/assets/img/5.png",
+            "entry_no": 5,
+            "votes": 80
+        },
+        {
+            "rank": 2,
+            "image": "https://highball-pte-ltd.github.io/vhigh_audition_api/assets/img/14.png",
+            "entry_no": 3,
+            "votes": 80
+        },
+        {
+            "rank": 4,
+            "image": "https://highball-pte-ltd.github.io/vhigh_audition_api/assets/img/5.png",
+            "entry_no": 2,
+            "votes": 55
+        },
+        {
+            "rank": 1,
+            "image": "https://highball-pte-ltd.github.io/vhigh_audition_api/assets/img/5.png",
+            "entry_no": 3,
+            "votes": 43
+        },
+        {
+            "rank": 5,
+            "image": "https://highball-pte-ltd.github.io/vhigh_audition_api/assets/img/5.png",
+            "entry_no": 1,
+            "votes": 34
+        },
+        {
+            "rank": 6,
+            "image": "https://highball-pte-ltd.github.io/vhigh_audition_api/assets/img/14.png",
+            "entry_no": 8,
+            "votes": 33
+        },
+        {
+            "rank": 7,
+            "image": "https://highball-pte-ltd.github.io/vhigh_audition_api/assets/img/5.png",
+            "entry_no": 9,
+            "votes": 30
+        },
+        {
+            "rank": 7,
+            "image": "https://highball-pte-ltd.github.io/vhigh_audition_api/assets/img/14.png",
+            "entry_no": 10,
+            "votes": 30
+        },
+        {
+            "rank": 7,
+            "image": "https://highball-pte-ltd.github.io/vhigh_audition_api/assets/img/5.png",
+            "entry_no": 15,
+            "votes": 30
+        },
+        {
+            "rank": 10,
+            "image": "https://highball-pte-ltd.github.io/vhigh_audition_api/assets/img/14.png",
+            "entry_no": 16,
+            "votes": 1
+        }
+    ]
+}
