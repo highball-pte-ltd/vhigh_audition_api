@@ -1,5 +1,9 @@
 {
-    "total_votes": 1035,
+    "total_votes": [
+        {
+            "count": 1035
+        }
+    ],
     "ranking": [
         {
             "rank": 1,
